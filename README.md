@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Role Task Management & Reporting System
 
 A production-ready Laravel 11 REST API implementing multi-role task management with audit trails, queued notifications, and comprehensive test coverage.
@@ -118,4 +117,3 @@ docs/
 =======
 # laravel-task-mgmt
 Task management api in laravel
->>>>>>> 2204438170454caa4166cad01293aaef6abb4ca4
