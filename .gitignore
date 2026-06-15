@@ -1,0 +1,16 @@
+/node_modules
+/public/build
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+composer.lock
+phpunit.result.cache
+
+# Storage framework directories
+/storage/framework/cache/data/
+/storage/framework/sessions/
+/storage/framework/views/
+/storage/logs/
